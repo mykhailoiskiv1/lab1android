@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myzooanimalslab1</string>
+    <string name="dog_name_Mike">Mike</string>
+    <string name="dog_name_Diaz">Diaz</string>
+    <string name="dog_name_Jack">Jack</string>
+    <string name="details">Details</string>
+    <string name="dog_description_Mike">My favorite</string>
+    <string name="dog_description_Diaz">Cool and my brother loves him</string>
+    <string name="dog_description_Jack">The biggest one</string>
+    <string name="animal_application">My pets</string>
+</resources>
